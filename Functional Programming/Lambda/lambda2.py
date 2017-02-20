@@ -10,7 +10,6 @@ def main():
 	# no sense
 	f1 = func(int(input()), int(input()))
 	print(f1)
-	f1()
 
 if __name__ == '__main__':
 	main()
